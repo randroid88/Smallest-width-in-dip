@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Smallest width in dip</string>
+    <string name="dp">dp</string>
 </resources>
