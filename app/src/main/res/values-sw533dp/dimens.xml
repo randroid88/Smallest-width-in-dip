@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="smallestWidth_TextSize">64sp</dimen>
+    <dimen name="smallestWidth_TextSize">128sp</dimen>
 </resources>
